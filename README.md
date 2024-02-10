@@ -4,7 +4,7 @@ This application was built to manage FHE assignments and it does just that. This
 
 The application is simple. It provides the user with a template to edit the assignments given to family members through a drop down menu.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/QFOZBrPQi9k)
 
 # Development Environment
 
