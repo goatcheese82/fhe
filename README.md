@@ -1,40 +1,29 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This application was built to manage FHE assignments and it does just that. This was built using VueJS as a project to improve my knowledge of the framework.
 
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+The application is simple. It provides the user with a template to edit the assignments given to family members through a drop down menu.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+This application was built using VueJS. The backend was originally built using .NET, but was moved to Ruby on Rails to decrease time to delivery.
 
-{Describe the programming language that you used and any libraries.}
+The program was writen using JavaScript on a VueJS framework using Pinia for state management and axios for http requests.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+The majority of the information I found in the official documentation.
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [VueJs](https://vuejs.org/)
+- [Pinia](https://pinia.vuejs.org/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
-
-
-# fhe
-
-This template should help get you started developing with Vue 3 in Vite.
+- Make meeting editable
+- Add forms for adding members
+- UI improvements
 
 ## Recommended IDE Setup
 
